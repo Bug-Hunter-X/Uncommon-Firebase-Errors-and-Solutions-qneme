@@ -1,0 +1,1 @@
+This repository demonstrates some uncommon errors encountered when working with the Firebase JavaScript SDK and provides solutions.  The `firebaseBug.js` file showcases examples of these errors, while `firebaseBugSolution.js` provides corrected code and explanations.
